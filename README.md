@@ -30,9 +30,13 @@ npm install
 npm run dev
 ```
 window运行会有这个错误：%1 is not a valid Win32 application
+```
 npm rm node-sass
+```
 npm install node-sass
+```
 上述命令就是重装sass模块
+```
 
 发布代码
 ```
