@@ -30,9 +30,6 @@ npm install
 npm run dev
 ```
 
-上述命令就是重装sass模块
-```
-
 发布代码
 ```
 npm run build
